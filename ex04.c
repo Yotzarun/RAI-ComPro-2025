@@ -42,6 +42,6 @@ int main()
     if (avg <= 50)
    {
 
-    printf("\n %s, your average is %.2f You got grade A.");
+    printf("\n %s, your average is %.2f You got grade F.");
    }
 }
