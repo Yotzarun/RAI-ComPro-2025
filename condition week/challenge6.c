@@ -4,7 +4,7 @@ int main()
 
 {
 
-    int i, std =1;
+    int i, std =1;\
 
     struct info
     {
